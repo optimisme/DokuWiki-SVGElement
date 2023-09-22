@@ -1,7 +1,8 @@
-base   SVGElement
+base   svgelement
 author Albert Palacios
 email  mail@exemple.com
 date   2023-09-22
-name   SVGElement
+name   SVG Element
 desc   Display SVG elements in an appropriate SVG element, but removing any potential script to prevent security issues.
 url    https://github.com/optimisme/DokuWiki-SVGElement
+image  image.png

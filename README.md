@@ -6,4 +6,4 @@ Display SVG elements in an appropriate SVG element, but removing any potential s
 
 Search and install the plugin using the "Extension Manager" and Copy/Paste next url:
 
-https://github.com/optimisme/DokuWiki-SVGElement/releases/download/v1.0.0/SVGElement.zip
+https://github.com/optimisme/DokuWiki-SVGElement/releases/download/v1.0.0/svgelement.zip

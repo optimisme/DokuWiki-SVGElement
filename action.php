@@ -19,10 +19,10 @@ class action_plugin_svgelement extends DokuWiki_Action_Plugin {
     public function getInfo() {
         return array(
             'author' => 'Albert Palacios',
-            'email'  => 'main¡l@exemple.com',
+            'email'  => 'mail@exemple.com',
             'date'   => '2023-09-22', 
             'name'   => 'SVG Element Plugin',
             'desc'   => 'Display SVG elements in an appropriate SVG element, but removing any potential script to prevent security issues.',
-            'url'    => 'https://github.com/optimisme/DokuWiki-SVGElement'         );
+            'url'    => 'https://github.com/optimisme/DokuWiki-SVGElement');
     }
 }

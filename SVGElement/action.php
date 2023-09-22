@@ -11,7 +11,7 @@ class action_plugin_svgelement extends DokuWiki_Action_Plugin {
     public function handle_js_addition(Doku_Event $event, $param) {
         $event->data['script'][] = array (
             'type'    => 'text/javascript',
-            'src'     => DOKU_BASE . 'lib/plugins/svgelement/scripts/svgelement.js',       
+            'src'     => DOKU_BASE . 'lib/plugins/svgelement/svgelement.js',       
             '_data'   => '',
         );
     }
